@@ -167,14 +167,7 @@ AgroChain/
 
 ---
 
-## 👥 Team VIRA
 
-| Role | Focus Area |
-|------|-----------|
-| **Team Leader** | Vishwa B R — Architecture & Development |
-| **Members** | Full-stack development, UI/UX, blockchain, domain research |
-
----
 
 ## 📄 License
 
